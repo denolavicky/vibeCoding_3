@@ -1,0 +1,6 @@
+1. Review this code. Fix the broken HTML tags, correct the CSS typos (like the box-shadow), and use Flexbox to center the card on the page and align the button properly at the bottom
+
+2. Refactor this pricing card into a reusable JavaScript function called renderCard. It should take title, price, and features (an array) as arguments and inject the HTML into a container div
+
+3. Update the CSS of this component to a modern 'Obsidian' theme. Use a deep dark background, clean sans-serif typography, and an electric purple (#8B5CF6) for the 'Start Trial' button and price accent
+
